@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[PDF]([url](https://drive.google.com/file/d/1pov1RFx21fDCD1-JPPXFUNtKZPXVjjhD/view?usp=sharing))
 
 Education
 ======
