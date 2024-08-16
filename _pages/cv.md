@@ -39,5 +39,6 @@ Work experience
 Skills
 ======
 Programming Languages: HTML, CSS JavaScript, Python
+
 UI/UX Design: Canva, Figma, Adapt, Vyond 
 
