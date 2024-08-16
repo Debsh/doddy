@@ -16,22 +16,26 @@ Education
 
 Work experience
 ======
-* August 2023: Platform Developer and Admin
+* September 2024: Platform Developer and Admin
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
+  * 
+* September 2022: Dss system monitor
+  * Hybrid Designs plc
+  * Duties includes: Track location of users
 
-* Fall 2015: UX Designer
+* April 2022: UX Designer
   * Giz Ethiopia
   * Duties included: Develop LMS for Agriculture use in Ethiopia 
   * Supervisor: [Anna Amft](AnnaAmft@googlemail.com) 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* february 2021: UX students
+  * LXD Acadamy
+  * Duties included: Learning experiancial designer and project work with AIT
+  * Supervisor: Giz and Ethio jobs 
   
 Skills
 ======
 Programming Languages: HTML, CSS JavaScript, Python
-UI/UX Design: Canva, Figma, Adapt
+UI/UX Design: Canva, Figma, Adapt, Vyond 
 
