@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S in Computer Engineering, AAiT, 2025 (expected)
-* B.S. in Electrical and Computer Engineering, JiT, 2019.
+* B.S. in Electrical and Computer Engineering, JiT.
 
 Work experience
 ======
