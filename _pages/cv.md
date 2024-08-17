@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 [PDF]([url](https://drive.google.com/file/d/1pov1RFx21fDCD1-JPPXFUNtKZPXVjjhD/view?usp=sharing))
@@ -21,7 +20,7 @@ Work experience
 * September 2024: Platform Developer and Admin
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
-  * 
+    
 * September 2022: Dss system monitor
   * Hybrid Designs plc
   * Duties includes: Track location of users
@@ -31,7 +30,7 @@ Work experience
   * Duties included: Develop LMS for Agriculture use in Ethiopia 
   * Supervisor: [Anna Amft](AnnaAmft@googlemail.com) 
 
-* february 2021: UX students
+* February 2021: UX students
   * LXD Acadamy
   * Duties included: Learning experiancial designer and project work with AIT
   * Supervisor: Giz and Ethio jobs 
