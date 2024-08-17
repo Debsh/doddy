@@ -9,7 +9,6 @@ redirect_from:
 My name is Debora Taye, and I am currently an MSc student in Computer Engineering at Addis Ababa University. 
 I completed my undergraduate degree in Electrical and Computer Engineering at Jimma University in Ethiopia. Currently, I am co-advised By [Dr. Bisrat.A](https://www.linkedin.com/in/bisrat-derebssa-383b63100?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzlK%2B4yLCTY%2BSjPvVJsn89Q%3D%3D)
 and [Hellina.H](https://hhnigatu.github.io/). 
-[1O](HHYYHBDNKJD)
 
 My research interest broadly lies in the NLP, with a focus on making MT between local languages of Ethiopia.  I am currently looking into making NLP tools usable and accessible for low-resourced languages. 
 
