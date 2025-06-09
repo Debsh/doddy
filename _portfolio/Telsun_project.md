@@ -3,7 +3,7 @@ title: "Telegram boot"
 excerpt: "I used telegram boot to acess data in database; read more about it here."
 collection: portfolio
 ---
-!(https://github.com/Debsh/doddy/blob/ab355ad96094b6867e5ab0f7c0521d1f0d474b78/images/2.2.1.png)
+![IMG-20230131-WA0004](https://github.com/Debsh/doddy/blob/ab355ad96094b6867e5ab0f7c0521d1f0d474b78/images/2.2.1.png)
 # Introduction
 
 Introduction of Driver registration system
