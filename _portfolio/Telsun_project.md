@@ -17,10 +17,11 @@ Traditionally, this process required manual documentation, lengthy procedures, a
 However, by integrating a Telegram bot, the registration process may be simplified, hastened, and made more user-friendly.
 
 ## About the functionality of the system
-1, Specific follow up 
-2, General follow up 
-3, Edit active data  
-# So this system can easier access for user 
+1, Specific follow up /
+2, General follow up /
+3, Edit active data  /
+
+So this system can easier access for user 
     💬 Used <strong>python-telegram-bot</strong> library
     🗃️ Integrated with <strong>PostgreSQL/MySQL</strong> database
     🔐 Secured with role-based access for admins and staff
