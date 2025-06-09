@@ -1,5 +1,5 @@
 ---
-title: "Telegram boot"
+title: "Telegram Bot for Database Control"
 excerpt: "I used telegram boot to acess data in database; read more about it here."
 collection: portfolio
 ---
@@ -20,7 +20,11 @@ However, by integrating a Telegram bot, the registration process may be simplifi
 1, Specific follow up 
 2, General follow up 
 3, Edit active data  
-So this system can easier access for user 
+# So this system can easier access for user 
+    💬 Used <strong>python-telegram-bot</strong> library
+    🗃️ Integrated with <strong>PostgreSQL/MySQL</strong> database
+    🔐 Secured with role-based access for admins and staff
+    📦 Hosted on a cloud server for 24/7 availability
 
 <img src="https://github.com/Debsh/doddy/blob/ab355ad96094b6867e5ab0f7c0521d1f0d474b78/images/2.3..png"  width="500" height="400" > &nbsp;
 <img src="https://github.com/Debsh/doddy/blob/ab355ad96094b6867e5ab0f7c0521d1f0d474b78/images/2.7.png"  width="300" height="400">
