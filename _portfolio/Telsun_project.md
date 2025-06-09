@@ -3,7 +3,8 @@ title: "Telegram boot"
 excerpt: "I used telegram boot to acess data in database; read more about it here."
 collection: portfolio
 ---
-<img src="https://github.com/Debsh/doddy.github.io/blob/fbbc33cb94fb3901661d8bf3c043f5f94c221004/images/Untitled%20design.png"  width="500" height="100" >.
+<img src="https://github.com/Debsh/doddy.github.io/blob/fbbc33cb94fb3901661d8bf3c043f5f94c221004/images/Untitled%20design.png"  width="500" height="200" >.
+
 
 
 # Introduction
